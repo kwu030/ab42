@@ -1,3 +1,3 @@
 # ab42 project
 
-I will manange ML and coding (including python and know how to change c++ coding)
+ab42 simulation trajs and data will be uploaded in this folder.
